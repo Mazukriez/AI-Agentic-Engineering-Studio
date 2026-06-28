@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Studio",
+  "description": "A visual platform to design, train, and fine-tune AI agents for specialized service tasks using LLMs, complete with performance charts, sandbox simulations, and training dataset generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
